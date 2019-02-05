@@ -1,130 +1,84 @@
 "RadioPanel.txt"
-
 {
 
-
-
+//"SFUI_StandardRadio"
+//"SFUI_GroupRadio"
 //"SFUI_ReportRadio"
-
 	"Groups"
-
 	{
-
-		"radio"
-
+		"standard"
 		{
-
-			"hotkey"	"3"
-
-			"title"	"Radio Menu"
-			"timeout"	"3"
-
+			"hotkey"	"1"
+			"title"	"radio menu"
+			"timeout"	"5"
 			
 			"Commands"
-
 			{
-
 				"roger"
-	
 				{
-	
 					"hotkey"	"1"
-
-					"label"	"Yes"
-
+					"label"	"yes"
 					"cmd"	"roger"
-	
 				}
-
 				
 				"negative"
-
 				{
-
 					"hotkey"	"2"
-
-					"label"	"No"
-
+					"label"	"no"
 					"cmd"	"negative"
 				}
-
 				
 				"needbackup"
-
 				{
-
 					"hotkey"	"3"
-					"label"	"Help"
-
+					"label"	"help"
 					"cmd"	"needbackup "
-
 				}
 				
 				"holdpos"
-
 				{
-
 					"hotkey"	"4"
-
-					"label"	"Hold"
-
+					"label"	"hold"
 					"cmd"	"holdpos"
 				}
-
 				
 				"go"
-
 				{
 					"hotkey"	"5"
-
-					"label"	"Go"
-
+					"label"	"go"
 					"cmd"	"go"
 				}
-
 				
 				"thanks"
 				{
-
 					"hotkey"	"6"
-
-					"label"	"Thanks"
+					"label"	"thanks"
 					"cmd"	"thanks"
-
 				}
-
-
 				
 				"cheer"
-
 				{
-
 					"hotkey"	"7"
-
-					"label"	"Cheer"
+					"label"	"cheer"
 					"cmd"	"cheer"
 				}
 				
 				"sorry"
 				{
-
 					"hotkey"	"8"
-					"label"	"Sorry"
+					"label"	"sorry"
 					"cmd"	"say_team SORRY"
 				}
 				
 				"askfordrop"
 				{
-
 					"hotkey"	"9"
-					"label"	"Drop"
-
+					"label"	"ask4drop"
 					"cmd"	"needbackup; say_team need a drop"
-
 				}
+
 			}
-
 		}
+		
 	}
-
 }
