@@ -5,19 +5,19 @@
 +exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 300 -freq 144 -tickrate 128 cl_forcepreload 1
 ```
 
-## Mouse
+## Mouse settings
 - DPI: 800
 - Polling rate: 1000Hz
 - In-game sensitivity: 1.5
 - Windows sensitivity: 10/20
 
-## Screen
+## Screen details
 - Model: BenQ XL2411
 - Resolution: 1920x1080
 - Refresh rate: 144Hz
 - In-game resolution: 1280x960 (4:3) stretched
 
-### Settings
+## Screen settings
 | Name | Value |
 |---------|-------|
 | Blur Reduction | OFF |
