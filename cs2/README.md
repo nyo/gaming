@@ -2,7 +2,7 @@
 
 ## Launch options
 ```
-+exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 300 -freq 144 -tickrate 128 cl_forcepreload 1
++exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 0 -freq 144 -tickrate 128 cl_forcepreload 1 -threads 7
 ```
 
 ## Mouse settings
