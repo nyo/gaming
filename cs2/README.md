@@ -1,8 +1,17 @@
 # Counter-Strike 2
 
 ## Launch options
+`+exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 0 -freq 144 -tickrate 128 cl_forcepreload 1 -threads 7`
+
+## NVIDIA Max Frame Rate
 ```
-+exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 0 -freq 144 -tickrate 128 cl_forcepreload 1 -threads 7
+Bureau (clic droit)
+└── Panneau de configuration NVIDIA
+    └── Paramètres 3D
+        └── Gérer les paramètres 3D
+            └── Paramètres de programme
+                └── cs2.exe (Counter-Strike 2)
+                    └── Nombre d’images par seconde maximal : 175 IPS
 ```
 
 ## Mouse settings
