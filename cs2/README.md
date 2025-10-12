@@ -1,9 +1,18 @@
 # Counter-Strike 2
 
+## Resolution
+
+Monitor: 1920x1080 (16:9)
+<br>In-game: 1280x960 (4:3) (stretched)
+
 ## Launch options
-`+exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 0 -freq 144 -tickrate 128 cl_forcepreload 1 -threads 7`
+
+```
++exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 0 -freq 144 -tickrate 128 cl_forcepreload 1 -threads 7
+```
 
 ## NVIDIA Max Frame Rate
+
 ```
 Bureau (clic droit)
 └── Panneau de configuration NVIDIA
@@ -15,18 +24,16 @@ Bureau (clic droit)
 ```
 
 ## Mouse settings
+
 - DPI: 800
 - Polling rate: 1000Hz
 - In-game sensitivity: 1.5
 - Windows sensitivity: 10/20
 
-## Screen details
-- Model: BenQ XL2411
-- Resolution: 1920x1080
-- Refresh rate: 144Hz
-- In-game resolution: 1280x960 (4:3) stretched
-
 ## Screen settings
+
+Model: BenQ XL2411 (144Hz)
+
 | Name | Value |
 |---------|-------|
 | Blur Reduction | OFF |
