@@ -1,0 +1,76 @@
+	Basics:
+
+sv_cheats 1
+mat_setvideomode 1600 900 1 (1280 550 / 1700 730)
+	HUD:
+0.8 > 0.95
+	Video:
+High, Low, Low, Low > High, High, High, Very High
+mp_display_kill_assists 0
+mat_postprocess_enable 0
+fog_enable 0
+fov_cs_debug 93
+weapon_recoil_model 0
+cl_draw_only_deathnotices 1
+
+	HLAE:
+
+Cinematics :
+cl_drawhud 0
+mirv_campath add
+mirv_campath enable 1
+
+Deathnotices :
+mirv_deathmsg debug 1
+mirv_deathmsg block !id *
+mirv_deathmsg highlightid id
+mirv_deathmsg cfg noticelifetime 60
+
+	X-Ray:
+r_drawothermodels 2 / 1
+spec_show_xray 1 / 0
+
+	Sky:
+
+sv_skyname vertigoblue_hdr
+sv_skyname cs_baggage_skybox_
+sv_skyname embassy
+sv_skyname jungle
+sv_skyname italy
+sv_skyname office
+sv_skyname vietnam
+sv_skyname sky_cs15_daylight01_hdr
+sv_skyname sky_cs15_daylight02_hdr
+sv_skyname sky_cs15_daylight03_hdr
+sv_skyname sky_cs15_daylight04_hdrsv_c
+
+	Fov:
+
+viewmodel_offset_x "1.2"
+viewmodel_offset_y "2"
+viewmodel_offset_z "-2"
+cl_bobamt_lat 0
+cl_bobamt_vert 0
+cl_bob_lower_amt 0
+
+	Crosshair:
+
+cl_crosshair_drawoutline "0"
+cl_crosshair_dynamic_maxdist_splitratio "0.35"
+cl_crosshair_dynamic_splitalpha_innermod "1"
+cl_crosshair_dynamic_splitalpha_outermod "0.5"
+cl_crosshair_dynamic_splitdist "7"
+cl_crosshair_outlinethickness "1"
+cl_crosshairalpha "200"
+cl_crosshaircolor "1"
+cl_crosshaircolor_b "255"
+cl_crosshaircolor_g "255"
+cl_crosshaircolor_r "255"
+cl_crosshairdot "0"
+cl_crosshairgap "-1"
+cl_crosshairgap_useweaponvalue "0"
+cl_crosshairscale "120"
+cl_crosshairsize "6"
+cl_crosshairstyle "4"
+cl_crosshairthickness "0.5"
+cl_crosshairusealpha "1"
