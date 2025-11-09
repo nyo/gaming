@@ -7,6 +7,7 @@ Monitor: 1920x1080 (16:9)
 
 ## Launch options
 
+Location: `C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg`
 ```
 +exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 0 -freq 144 -tickrate 128 cl_forcepreload 1 -threads 7
 ```
