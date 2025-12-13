@@ -2,18 +2,20 @@
 
 ## Launch options
 
-Location: `C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg`
+@ `C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg`
 
 ```
-+exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 0 -freq 144 -tickrate 128 cl_forcepreload 1 -threads 7
++exec autoexec.cfg +fps_max 0
 ```
 
 ## Mouse settings
 
-- DPI: 800
-- Polling rate: 1000Hz
-- In-game sensitivity: 1.5
-- Windows sensitivity: 10/20
+| Setting | Value |
+|-----|-----|
+| DPI | 800 |
+| Polling rate | 1000Hz |
+| In-game sensitivity | 1.5 |
+| Windows sensitivity | 10/20 |
 
 ## Monitor settings
 
@@ -29,7 +31,7 @@ Desktop: 1920x1080 (16:9)
 ### Config
 
 | Category | Setting | Value |
-|-----|---------|-------|
+|----------|---------|-------|
 | Picture Adjust | Contract | 50 |
 | Picture Adjust | Brightness | 80 |
 | Picture Adjust | Overdrie | -1 |
