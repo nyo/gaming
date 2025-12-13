@@ -1,8 +1,8 @@
 # Counter-Strike 2
 
-## Launch options
+[autoexec.cfg](autoexec.cfg) @ `C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg`
 
-@ `C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg`
+## Launch options
 
 ```
 +exec autoexec.cfg +fps_max 0
