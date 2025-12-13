@@ -33,21 +33,31 @@ Bureau (clic droit)
 
 ## Screen settings
 
-Model: BenQ XL2411 (144Hz)
+Model: iiyama 24" G-Master G2470HSU-B1 Red Eagle (165Hz)
 
 | Name | Value |
 |---------|-------|
-| Blur Reduction | OFF |
-| Picture Mode | FPS1 |
-| Display Mode | Full |
-| Picture > Brightness | 50 |
-| Picture > Contrast | 20 |
-| Picture > Low Blue Light | 10 |
-| Picture > Black eQualizer | 5 |
-| Picture > Blur Reduction | OFF |
-| Picture > Color Temperature > User Mode | R:90 G:95 B:100 |
-| Picture > Reset Color | NO |
-| Picture > AMA | Premium |
-| Picture > Instant Mode | ON |
-| Picture > Sharpness | 5 |
-| Picture Advanced > Smart Focus > Size | OFF |
+| Picture Adjust > Contract | 50 |
+| Picture Adjust > Brightness | 80 |
+| Picture Adjust > Overdrie | -1 |
+| Picture Adjust > Adv. Contract | OFF |
+| Picture Adjust > Eco | OFF |
+| Picture Adjust > Blue Light Reducer | OFF |
+| Picture Adjust > Back Tuner | 0 |
+| Picture Adjust > MBR | OFF |
+| Picture Adjust > Gamma | GAMMA2 |
+| Store User Setting > User Modes | USER MODE 1 |
+| Color Settings > Color Temperature | SATURATION |
+| Color Settings > User Preset > Red | 50 |
+| Color Settings > User Preset > Green | 50 |
+| Color Settings > User Preset > Blue | 50 |
+| Image Adjust > I-Style Color | OFF |
+| Image Adjust > X-Res Technology | OFF |
+| Image Adjust > Sharp And Soft | 4 |
+| Image Adjust > HDMI Range | FULL |
+| Image Adjust > Direct Drive Mode | ON |
+| Image Adjust > Video Mode Adjust | FULL |
+| Language | English |
+| Setup Menu > Opening Logo | OFF |
+| Setup Menu > AMD FreeSync Premium | ON |
+| Setup Menu > LED | ON |
