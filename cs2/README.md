@@ -1,18 +1,62 @@
 # Counter-Strike 2
 
-## Resolution
-
-Monitor: 1920x1080 (16:9)
-<br>In-game: 1280x960 (4:3) (stretched)
-
 ## Launch options
 
 Location: `C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg`
+
 ```
 +exec autoexec.cfg -noreflex -noforcemaccel -noforcemspd -console -novid -nojoy +fps_max 0 -freq 144 -tickrate 128 cl_forcepreload 1 -threads 7
 ```
 
-## NVIDIA Max Frame Rate
+## Mouse settings
+
+- DPI: 800
+- Polling rate: 1000Hz
+- In-game sensitivity: 1.5
+- Windows sensitivity: 10/20
+
+## Monitor settings
+
+### Model
+
+iiyama 24" G-Master G2470HSU-B1 Red Eagle (165Hz)
+
+### Resolution
+
+Desktop: 1920x1080 (16:9)
+<br>In-game: 1280x960 (4:3) (stretched)
+
+### Config
+
+| Category | Setting | Value |
+|-----|---------|-------|
+| Picture Adjust | Contract | 50 |
+| Picture Adjust | Brightness | 80 |
+| Picture Adjust | Overdrie | -1 |
+| Picture Adjust | Adv. Contract | OFF |
+| Picture Adjust | Eco | OFF |
+| Picture Adjust | Blue Light Reducer | OFF |
+| Picture Adjust | Back Tuner | 0 |
+| Picture Adjust | MBR | OFF |
+| Picture Adjust | Gamma | GAMMA2 |
+| Store User Setting | User Modes | USER MODE 1 |
+| Color Settings | Color Temperature | SATURATION |
+| Color Settings | User Preset > Red | 50 |
+| Color Settings | User Preset > Green | 50 |
+| Color Settings | User Preset > Blue | 50 |
+| Image Adjust | I-Style Color | OFF |
+| Image Adjust | X-Res Technology | OFF |
+| Image Adjust | Sharp And Soft | 4 |
+| Image Adjust | HDMI Range | FULL |
+| Image Adjust | Direct Drive Mode | ON |
+| Image Adjust | Video Mode Adjust | FULL |
+| Language | | English |
+| Setup Menu | Opening Logo | OFF |
+| Setup Menu | AMD FreeSync Premium | ON |
+| Setup Menu | LED | ON |
+
+
+## ~NVIDIA Max Frame Rate~
 
 ```
 Bureau (clic droit)
@@ -23,41 +67,3 @@ Bureau (clic droit)
                 └── cs2.exe (Counter-Strike 2)
                     └── Nombre d’images par seconde maximal : 175 IPS
 ```
-
-## Mouse settings
-
-- DPI: 800
-- Polling rate: 1000Hz
-- In-game sensitivity: 1.5
-- Windows sensitivity: 10/20
-
-## Screen settings
-
-Model: iiyama 24" G-Master G2470HSU-B1 Red Eagle (165Hz)
-
-| Name | Value |
-|---------|-------|
-| Picture Adjust > Contract | 50 |
-| Picture Adjust > Brightness | 80 |
-| Picture Adjust > Overdrie | -1 |
-| Picture Adjust > Adv. Contract | OFF |
-| Picture Adjust > Eco | OFF |
-| Picture Adjust > Blue Light Reducer | OFF |
-| Picture Adjust > Back Tuner | 0 |
-| Picture Adjust > MBR | OFF |
-| Picture Adjust > Gamma | GAMMA2 |
-| Store User Setting > User Modes | USER MODE 1 |
-| Color Settings > Color Temperature | SATURATION |
-| Color Settings > User Preset > Red | 50 |
-| Color Settings > User Preset > Green | 50 |
-| Color Settings > User Preset > Blue | 50 |
-| Image Adjust > I-Style Color | OFF |
-| Image Adjust > X-Res Technology | OFF |
-| Image Adjust > Sharp And Soft | 4 |
-| Image Adjust > HDMI Range | FULL |
-| Image Adjust > Direct Drive Mode | ON |
-| Image Adjust > Video Mode Adjust | FULL |
-| Language | English |
-| Setup Menu > Opening Logo | OFF |
-| Setup Menu > AMD FreeSync Premium | ON |
-| Setup Menu > LED | ON |
