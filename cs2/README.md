@@ -60,6 +60,9 @@ Desktop: 1920x1080 (16:9)
 | Setup Menu | AMD FreeSync Premium | ON |
 | Setup Menu | LED | ON |
 
+## Panneau de configuration NVIDIA
+
+TODO
 
 ## ~NVIDIA Max Frame Rate~
 
