@@ -62,16 +62,24 @@ Desktop: 1920x1080 (16:9)
 
 ## Panneau de configuration NVIDIA
 
-TODO
+| Setting | Value |
+|-----|-----|
+| Luminosité | + 50% |
+| Contraste | + 50% |
+| Gamma | + 1.00 |
+| Éclat numérique | + 60% |
+| Teinte | + 0% |
+| Mode de mise à l'échelle | Rapport largeur/hauteur |
+| Résolution | 1920x1080 |
+| Fréquence de rafraîchissement | 165 Hz |
+| G-SYNC | Activé |
 
-## ~NVIDIA Max Frame Rate~
+### ~NVIDIA Max Frame Rate~
 
 ```
-Bureau (clic droit)
-└── Panneau de configuration NVIDIA
-    └── Paramètres 3D
-        └── Gérer les paramètres 3D
-            └── Paramètres de programme
-                └── cs2.exe (Counter-Strike 2)
-                    └── Nombre d’images par seconde maximal : 175 IPS
+Paramètres 3D
+    └── Gérer les paramètres 3D
+        └── Paramètres de programme
+            └── cs2.exe (Counter-Strike 2)
+                └── Nombre d’images par seconde maximal : 175 IPS
 ```
