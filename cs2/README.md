@@ -1,11 +1,13 @@
 # Counter-Strike 2
 
-Location for [autoexec.cfg](autoexec.cfg):
+## Locations
+
+[autoexec.cfg](autoexec.cfg)
 ```
 C:/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg
 ```
 
-Location for [cs2_video.txt](cs2_video.txt):
+[cs2_video.txt](cs2_video.txt)
 ```
 C:\Program Files (x86)\Steam\userdata\154317\730\local\cfg\cs2_video.txt
 ```
