@@ -15,7 +15,7 @@ C:\Program Files (x86)\Steam\userdata\154317\730\local\cfg\cs2_video.txt
 ## Launch options
 
 ```
-+exec autoexec.cfg +fps_max 0
++exec autoexec.cfg +fps_max 0 +sv_cheats 1
 ```
 
 ## Mouse settings
